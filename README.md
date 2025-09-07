@@ -2,10 +2,6 @@
 
 Order food from the comfort of your home. We show the latest restaurants available in your city, with all the details. Pick a dish, add to cart, place an order.
 
-## Live Website Link :-
-
--[TestyGoodFood](https://testygoodfood.onrender.com/)
-
 ## Tech Stack
 
 - **HTML**
@@ -41,7 +37,7 @@ Order food from the comfort of your home. We show the latest restaurants availab
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/BaldaniyaParth/TestyGoodFood.git
+    git clone https://github.com/ShrutiMistry25/TestyGoodFood.git
     ```
 
 2. **Navigate to the project directory**
